@@ -1,2 +1,2 @@
-info:
-  master dev-config
+config:
+  info: master dev-config
